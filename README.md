@@ -1,3 +1,4 @@
+
 # Travel-Aggregator-website
 A travel aggregator is a website that finds availabilities and prices of travel offers across many sources and aggregates them all in one place. This helps users find the best prices out of all of the results the aggregator found. That way, it’s easy for consumers to know that they are booking at the lowest price.
 
@@ -36,3 +37,7 @@ It benefits both the original source and website aggregators. Both will receive 
 Content aggregation is extremely convenient for visitors, and this is where you can capitalize with a well-designed travel aggregator site of your own.
 
 # Video is attached for demo
+
+
+https://user-images.githubusercontent.com/52278696/132982062-621df954-a7fe-4a47-9aaa-5a15e2581045.mp4
+
